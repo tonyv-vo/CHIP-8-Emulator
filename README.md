@@ -13,6 +13,8 @@ I am planning to add the following features in the future to make this project m
 
 ## Keyboard mapping
 CHIP-8:
+|   |   |   |   |
+|---|---|---|---|
 | 1 | 2 | 3 | C |
 | 4 | 5 | 6 | D |
 | 7 | 8 | 9 | E |
@@ -20,6 +22,8 @@ CHIP-8:
 
 Keyboard:
 CHIP-8:
+|   |   |   |   |
+|---|---|---|---|
 | 1 | 2 | 3 | 4 |
 | Q | W | E | R |
 | A | S | D | F |
